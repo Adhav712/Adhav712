@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me - Dm adhav712@gmail.com, TwitterId : @Adhav712
 
-Portfolio->[T.Adhavan 2021 CV.pdf](https://github.com/Adhav712/Adhav712/files/7056767/T.Adhavan.2021.CV.pdf)<-
+Portfolio->  [T.Adhavan 2021 CV.pdf](https://github.com/Adhav712/Adhav712/files/7056767/T.Adhavan.2021.CV.pdf)  <-
 
