@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adhavan.T
+- 👋 Hi, I’m Adhavan
 - 👀 I’m interested in Blockchain(Dapps,Dweb)
 - 🌱 I’m currently learning (Front-End & blockchain(dapps))
 - 💞️ I’m looking to collaborate on Blockchain projects
